@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/IagoBomfim/order-summary-component.git)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://papaya-custard-58bf98.netlify.app/)
 
 ## My process
 
